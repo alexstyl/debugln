@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.alexstyl:debugln:1.0.0")
+    implementation("com.alexstyl:debugln:1.0.3")
 }
 ```
 
