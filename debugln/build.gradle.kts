@@ -13,7 +13,7 @@ plugins {
 }
 
 val publishGroupId = "com.alexstyl"
-val publishVersion = "1.0.3"
+val publishVersion = "1.1.0"
 val organization = "alexstyl"
 var projectName = "debugln"
 val githubUrl = "github.com/$organization/$projectName"
