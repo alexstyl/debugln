@@ -1,5 +1,7 @@
 # debugln
 
+Dead simple logging for Kotlin Multiplatform apps. Supports: Android, iOS, JVM, Browser (JS/WASM), NodeJS targets.
+
 ## Installation
 
 ```kotlin

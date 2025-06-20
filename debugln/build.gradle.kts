@@ -96,7 +96,7 @@ afterEvaluate {
 
                 pom {
                     name.set("debugln")
-                    description.set("Dead simple logging for Kotlin apps")
+                    description.set("Dead simple logging for Kotlin Multiplatform apps. Supports: Android, iOS, JVM, Browser (JS/WASM), NodeJS targets.")
                     url.set("https://${githubUrl}")
                     licenses {
                         license {
